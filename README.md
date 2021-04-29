@@ -8,5 +8,3 @@ I am currently working on my first original project which is an Ren'Py visual no
 # Language Skills
 I am mostly an newbie here on the GitHub platform, I'm starting to have these skills:
 <li>Ren'Py (Python)</li>
-<li>HTML</li>
-<li>CSS</li>
