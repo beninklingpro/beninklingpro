@@ -1,12 +1,12 @@
 ![banner](/images/banner.jpeg)
 
 # About
-Hello, I'm Benjamin Fernandez. I create digital media content for the internet including my own projects and create videos under the BenInkling Pro name. Plus, I am the creator of the original character designs of Amira, Raven, and Crystal.
+Hello, I'm Benjamin Fernandez. I create digital media content on the web including my original projects and create videos under the BenInkling Pro name. Plus, I am the creator of the original character designs of Amira, Raven, and Crystal.
 
 I am currently working on my first original project which is an Ren'Py visual novel called **Planet Crystal**. Which I'm currently working on the story and concept for the project.
 
 # Social Media
-Working on code projects is like a side-jobs for me, but I mainly do digital media content as **BenInkling Pro** but most of my work is on the website.
+Working on code projects is like a side-job for me, but I mainly do digital media content as **BenInkling Pro**, which is my gaming counterpart but most of my work is on the website.
 
 [Twitter](https://twitter.com/beninklingpro)
 
