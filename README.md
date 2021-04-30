@@ -5,8 +5,13 @@ Hello, I'm Benjamin Fernandez. I create digital media content for the internet i
 
 I am currently working on my first original project which is an Ren'Py visual novel called **Planet Crystal**. Which I'm currently working on the story and concept for the project.
 
+# Social Media
+Working on code projects is like a side-jobs for me, but I mainly do digital media content as **BenInkling Pro** but most of my work is on the website.
 
+[Twitter](https://twitter.com/beninklingpro)
+
+[YouTube Channel](https://www.youtube.com/channel/UCRCf4QfQxN76GOiNXQuEqsg)
 # Development Resource Badges
-*The badges represent the resources that I'm currently using for my development environment*
+*The badges represent the resources and tools that I'm currently using for my development environment*
 
-<img src="images/badges/vscode.png" href="https://visualstudio.microsoft.com" weight="80" height="80"> <img src="images/badges/renpy.png" href="https://renpy.org" weight="80" height="80">
+<img src="images/badges/vscode.png" weight="80" height="80"> <img src="images/badges/renpy.png" weight="80" height="80">
